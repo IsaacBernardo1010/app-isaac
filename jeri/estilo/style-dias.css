@@ -4,7 +4,7 @@
 
 * {
     margin: 0px;
-    padding: 0px;    
+    padding: 0px;       
 }
 
 header {
@@ -12,12 +12,18 @@ header {
     text-align: center;
     padding: 10px;
     background-image: linear-gradient(to bottom, aqua, rgba(0, 255, 255, 0.534), white);
+    color: black;
+    
 }
 
 section {
     height: auto;
     margin: 10px 5px 0px 5px;
     padding-bottom: 10px;
+}
+
+h1 {
+    font-weight: normal;
 }
 
 h2 {
