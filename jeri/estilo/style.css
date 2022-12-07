@@ -29,7 +29,7 @@ header > h1 {
 header > h2 {
     padding-bottom: 4px;
     font-size: 20px;
-    font-weight: lighter;
+    font-weight: normal;   
 }
 
 nav {
